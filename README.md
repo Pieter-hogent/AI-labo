@@ -47,7 +47,7 @@ Deze code op de juiste plaats toevoegen in de cell en uitvoeren doet de error ve
 
 ![](/img/ailabo-code.png)
 
-Als je alle stappen correct implementeert, zal je zien dat je goed werkend neuraal netwerk gecreëerd hebt.
+Als je alle stappen correct implementeert, zal je zien dat je een goed werkend neuraal netwerk gecreëerd hebt, proficiat!
 
 # 2. Lineaire regressie
 
